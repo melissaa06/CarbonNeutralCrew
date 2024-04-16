@@ -29,4 +29,5 @@ Scatter Plots in Python
 https://plotly.com/python/line-and-scatter/
 ---------------------------------------
 
-!(https://github.com/melissaa06/CarbonNeutralCrew/blob/main/Clean%20alternative%20fuel%20vehicle%20eligibility.png)
+![Image Alt Text](https://github.com/melissaa06/CarbonNeutralCrew/blob/main/Electric%20Vehicle%20Ranges%20by%20Make1.png)
+
