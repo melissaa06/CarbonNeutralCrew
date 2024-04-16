@@ -28,6 +28,10 @@ https://community.plotly.com/t/generate-bar-chart-with-plotly-express-on-python/
 Filled Area Plots in Python
 https://plotly.com/python/filled-area-plots/
 
+Stats within Introduction
+https://www.electrive.com - USA-Washington Invests in Charging Infrastructure
+
+
 ---------------------------------------
 
 ![Image Alt Text](https://github.com/melissaa06/CarbonNeutralCrew/blob/main/Electric%20Vehicle%20Ranges%20by%20Make1.png)
